@@ -34,9 +34,9 @@
 //
 //  Function Name :         Factorial
 //  Description :               It is used to calculate the factorial
-//  Input Arguments :       Integer
+//  Input Arguments :           Integer
 //  Output :                     Integer
-//  Author :                     Piyush Manohar Khairnar
+//  Author :                     Bachhav Nilesh Bapu
 //  Date :                        24/08/2021
 //
 ///////////////////////////////////////////////////////////////////////////////////
